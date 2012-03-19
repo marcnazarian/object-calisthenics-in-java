@@ -1,0 +1,23 @@
+Object Calisthenics - coding dojo (by Jeff Bay)
+===============================================
+
+The challenge:
+--------------
+Do a simple project using far stricter coding standards than you’ve ever used in your life.
+Below, you’ll find 9 “rules of thumb” that will help push your code into good object-oriented
+shape.
+
+The rules:
+----------
+    1. One level of indentation per method
+    2. Don’t use the ELSE keyword
+    3. Wrap all primitives and Strings
+    4. First class collections
+    5. One dot per line
+    6. Don’t abbreviate
+    7. Keep all entities small
+    8. No classes with more than two instance variables
+    9. No getters/setters/properties
+
+
+More details about Object Calisthenics on http://www.cs.helsinki.fi/u/luontola/tdd-2009/ext/ObjectCalisthenics.pdf
